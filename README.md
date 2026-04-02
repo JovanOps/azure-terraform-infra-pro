@@ -1,7 +1,7 @@
 # Azure Terraform Infrastructure (Linux VM + Nginx)
 
 ## 📌 Project Overview
-
+This project demonstrates a complete Infrastructure as Code (IaC) workflow on Azure, from provisioning to deployment and cleanup.
 This project demonstrates provisioning a complete Azure infrastructure using **Terraform modules**, including:
 
 - Resource Group
