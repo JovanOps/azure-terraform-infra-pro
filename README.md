@@ -147,6 +147,16 @@ terraform destroy
 * Remote server management via SSH
 
 ---
+## 📸 Screenshots
+
+### Terraform Deployment
+<img width="1920" height="1080" alt="Screenshot (1591)" src="https://github.com/user-attachments/assets/1e4c828e-c14e-45b9-b0b2-0951f7b8c8fb" />
+
+### SSH Connection
+<img width="1920" height="1080" alt="Screenshot (1593)" src="https://github.com/user-attachments/assets/1e794abb-a8d7-472d-9716-500a6c4eb884" />
+
+### Nginx Running
+<img width="1920" height="901" alt="Screenshot (1595)" src="https://github.com/user-attachments/assets/fa3f018d-e92c-49a3-ba96-838c1bbe074d" />
 
 ## 👤 Author
 
