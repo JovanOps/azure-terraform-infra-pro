@@ -107,7 +107,7 @@ sudo systemctl start nginx
 ### 7. Access in browser
 
 ```
-http://20.101.114.125/
+http://public ip /
 ```
 
 ---
